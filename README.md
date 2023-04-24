@@ -13,3 +13,7 @@
 
 * `pip install -r requirements.txt`
 * `./julius ./data/filename.json`
+
+## Screenshot
+
+![example](https://user-images.githubusercontent.com/124720/233878983-8c9982f2-7ba0-42ed-8048-7610649f43f5.png)
