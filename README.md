@@ -4,7 +4,7 @@
 
 ## Get your data
 
-* Go to the [Nubank web app](`https://app.nubank.com.br/`)
+* Go to the [Nubank web app](https://app.nubank.com.br/)
 * Open developer tools and go to `network`
 * Find the requests with JSON responses of your bills (one request per month)
 * Save them to the `data` folder
